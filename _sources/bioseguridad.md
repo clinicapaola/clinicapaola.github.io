@@ -7,7 +7,7 @@
 
 ### **Objetivo General**
 
-> Este manual establece los criterios de **BIOSEGURIDAD** que se aplican en el servicio de _Odontología Personalizada_, para la promoción de la salud y la protección de los profesionales de la salud, y de los pacientes frente al riesgo de adquirir enfermedades o de sufrir accidentes con ocasión de la prestación de servicios de salud en el ámbito del servicio de Odontología, ajustados a la normatividad vigente.
+> Este manual establece los criterios de **Bioseguridad** que se aplican en el servicio de _Odontología Personalizada_, para la promoción de la salud y la protección de los profesionales de la salud, y de los pacientes frente al riesgo de adquirir enfermedades o de sufrir accidentes con ocasión de la prestación de servicios de salud en el ámbito del servicio de Odontología, ajustados a la normatividad vigente.
 
 El manual también establece los conceptos generales y los protocolos de limpieza y deinfección de áreas, equipos y dispositivos médicos empleados en el servicio de Odontología que permita prestar servicios con seguridad y contribuyan a prevenir las infecciones potencialmente derivadas de la atención en salud.
 
@@ -49,9 +49,9 @@ Las normas universales buscan **complemetar** las recomendaciones de rutina para
 
 - Restrinja el ingreso a las áreas de alto riesgo
 
-### **Uso de elementos de protección Personal**
+#### **Uso de elementos de protección Personal**
 
-#### **Material no crítico**
+**Material no crítico**
 
 Esta clasificación corresponde a instrumentos o dispositivos que pueden tener contacto frecuente con los aerosoles generados durante el tratamiento dental, tocados por el paciente o por las manos contaminadas del clínico o auxiliar dental durante el tratamiento.
 
@@ -78,19 +78,13 @@ Para estos materiales deben utilizarse desinfectantes de **nivel intermedio** o 
 
 Los diferentes elementos que se utilizan en la odontología están fabricados de diversos materiales, cada uno de ellos con características propias, las cuales deben ser consideradas para seleccionar el tipo de método que se debe emplear en la eliminación de microorganismos.
 
-#### **Acero**
+**Acero**
 
-Los artículos de acero inoxidable son durables si se mantiene de acuerdo a indicaciones del fabricante. La calidad del agua puede dañarlos ya sea por exceso de cloruros o de sustancias alcalinas o ácidas. También puede dañarse por el tipo de marcado si éste debilita su estructura original.
+Los artículos de acero inoxidable son durables si se mantiene de acuerdo a indicaciones del fabricante. La calidad del agua puede dañarlos ya sea por exceso de cloruros o de sustancias alcalinas o ácidas. También puede dañarse por el tipo de marcado si éste debilita su estructura original. Para este tipo de instrumentales se recomienda la esterilización con vapor de agua (autoclave).
 
-Para este tipo de instrumentales se recomienda la esterilización con vapor de agua (autoclave).
+**Plasticos**
 
-**PLÁSTICOS**
-
-Son compuestos realizados sobre la base de polímeros naturales o sintéticos y su característica principal es que son capaces de deformarse y moldearse. Son utilizados ampliamente en el ámbito clínico ya sea como componente de instrumentos y equipos, como aislante térmico y eléctrico y como empaque.
-
-En general resiste la acción de ácidos, álcalis y algunos solventes. La resistencia de los plásticos es directamente proporcional a la densidad, a mayor densidad mayor resistencia.
-
-Para los artículos de plásticos termo resistentes se puede utilizar la autoclave y los artículos termolábiles se deben esterilizar con sustancias químicas como el glutaraldehído al 2% durante el tiempo que indique el proveedor.
+Son compuestos realizados sobre la base de polímeros naturales o sintéticos y su característica principal es que son capaces de deformarse y moldearse. Son utilizados ampliamente en el ámbito clínico ya sea como componente de instrumentos y equipos, como aislante térmico y eléctrico y como empaque. En general resiste la acción de ácidos, álcalis y algunos solventes. La resistencia de los plásticos es directamente proporcional a la densidad, a mayor densidad mayor resistencia. Para los artículos de plásticos termo resistentes se puede utilizar la autoclave y los artículos termolábiles se deben esterilizar con sustancias químicas como el glutaraldehído al 2% durante el tiempo que indique el proveedor.
 
 **Latex**
 
@@ -122,11 +116,7 @@ Para limitar la diseminación de la sangre y la saliva en el ambiente se debe se
 
 #### **Limpieza y desinfección del Ambiente**
 
-Estas normas tienen por objeto disminuir la contaminación ambiental y eliminar la suciedad visible. En los establecimientos asistenciales hay gérmenes patógenos presentes en los elementos o equipos sucios o contaminados cercanos al paciente que se pueden comportar como reservorios o fuentes de infección.
-
-La limpieza de los ambientes debe ser realizada protegido con un gorro, delantal impermeable, mascarilla, guantes de goma hasta la mitad del antebrazo y anteojos protectores. Asimismo, se debe estar vacunado contra el tétano y la Hepatitis B.
-
-Para la limpieza de los ambientes se debe tener las siguientes consideraciones
+Estas normas tienen por objeto disminuir la contaminación ambiental y eliminar la suciedad visible. En los establecimientos asistenciales hay gérmenes patógenos presentes en los elementos o equipos sucios o contaminados cercanos al paciente que se pueden comportar como reservorios o fuentes de infección. La limpieza de los ambientes debe ser realizada protegido con un gorro, delantal impermeable, mascarilla, guantes de goma hasta la mitad del antebrazo y anteojos protectores. Asimismo, se debe estar vacunado contra el tétano y la Hepatitis B. Para la limpieza de los ambientes se debe tener las siguientes consideraciones
 
 1. Siempre se efectuará la limpieza ambiental desde el área más limpia a la más sucia.
 2. La limpieza comienza por las superficies verticales, siguiendo por sillones y pisos.
@@ -136,11 +126,9 @@ Para la limpieza de los ambientes se debe tener las siguientes consideraciones
 
 **Limpieza del Consultorio**
 
-Las superficies de los muebles de trabajo deberán ser de material fácilmente higienizable, liso y con la menor cantidad posible de ángulos en donde se pueda depositar el polvo o material contaminado.
+Las superficies de los muebles de trabajo deberán ser de material fácilmente higienizable, liso y con la menor cantidad posible de ángulos en donde se pueda depositar el polvo o material contaminado. El procedimiento a seguir es el siguiente.
 
-El procedimiento a seguir es el siguiente
-
-```{mydirectivename}
+```{note}
 1. En caso de mancha de sangre u otro fluido orgánico embeber inmediatamente en toalla absorbente, eliminar como residuo patogénico, proceder a la limpieza con solución detergente e hipoclorito de sodio al 1%.
 
 2. Paredes, puertas, ventanas y vidrios: El local asistencial deberá contar con paredes y pisos de fácil lavado, evitando apliques innecesarios o materiales rugosos o porosos que dificulten la higiene del consultorio.
@@ -160,13 +148,13 @@ El procedimiento a seguir es el siguiente
 9. Baños: Se efectuará igual procedimiento que el descrito en pisos y paredes; el inodoro y el lavatorio se desmancharán con jabón aniónico o solución de detergente, enjuagar y por último desinfectar con hipoclorito de sodio al 0.1 cuando estén visiblemente sucios con material orgánico. Los materiales utilizados en este sector no se pueden utilizar en otro sector.
 ```
 
-- **Uso de Barreras**
+**Uso de Barreras**
 
->Comprende el concepto de evitar la exposición directa a sangre y otros fluidos orgánicos potencialmente contaminantes, mediante la utilización de materiales adecuados que se interpongan al contacto de los mismos. Estos dispositivos de protección tienen el objeto de impedir contaminación con microorganismos eliminados por los enfermos, y en otros casos que microorganismos del personal sanitario sean transmitidos a los pacientes. La utilización de barreras no evita los accidentes de exposición a estos fluidos, pero disminuyen las consecuencias de dicho accidente.
+Comprende el concepto de evitar la exposición directa a sangre y otros fluidos orgánicos potencialmente contaminantes, mediante la utilización de materiales adecuados que se interpongan al contacto de los mismos. Estos dispositivos de protección tienen el objeto de impedir contaminación con microorganismos eliminados por los enfermos, y en otros casos que microorganismos del personal sanitario sean transmitidos a los pacientes. La utilización de barreras no evita los accidentes de exposición a estos fluidos, pero disminuyen las consecuencias de dicho accidente.
 
-- **Guantes**
+**Guantes**
 
-> Su uso tiene como objetivo la protección de nuestra salud y la del paciente, al evitar o disminuir tanto el riesgo de contaminación del paciente con los microorganismos de la piel del operador, como de la transmisión de gérmenes de la sangre, saliva, o mucosas del paciente a las manos del odontologo; por lo tanto, en todo tipo de procedimiento odontológico, incluyendo el examen clínico, el uso de guantes es indispensable.
+Su uso tiene como objetivo la protección de nuestra salud y la del paciente, al evitar o disminuir tanto el riesgo de contaminación del paciente con los microorganismos de la piel del operador, como de la transmisión de gérmenes de la sangre, saliva, o mucosas del paciente a las manos del odontologo; por lo tanto, en todo tipo de procedimiento odontológico, incluyendo el examen clínico, el uso de guantes es indispensable.
 
 En relación al uso de guantes debe considerarse:
 
@@ -186,7 +174,7 @@ En relación al uso de guantes debe considerarse:
   14. Mientras realiza la atención, dichos guantes no deberán manipular ningún objeto o equipamiento que no esté estrictamente vinculado al área asistencial del paciente, de tener que hacerlo deberá desechar esos guantes y utilizar un nuevo par.
   15. Si durante la realización de algún procedimiento odontológico se cayera un instrumento, utilizar otro similar y continuar con el tratamiento interrumpido. No recogerlo sino hasta la finalización de dicho tratamiento.
 
-- **Mascarillas**
+**Mascarillas**
 
 > Se utilizan para proteger las mucosas de nariz y boca contra la inhalación o ingestión de partículas presentes en el aire, en los aerosoles y contra las salpicaduras de sangre y saliva. Las mascarillas deben tener las siguientes características:
 
@@ -204,7 +192,7 @@ Se deberá usar mascarillas para cualquier tipo de procedimiento que se realice 
 
 Nunca deben ser tocadas con las manos aun estando enguantadas. Manipularlas del elástico de soporte.
 
-#### **Protectores Oculares**
+**Protectores Oculares**
 
 Los protectores oculares sirven para proteger la conjuntiva ocular y el ojo de la contaminación por aerosoles, salpicaduras de sangre y saliva y de las partículas que se generan durante el trabajo odontológico. Los anteojos deben tener las siguientes características:
 
@@ -213,7 +201,7 @@ Los protectores oculares sirven para proteger la conjuntiva ocular y el ojo de l
   3. Debe permitir una correcta visión.
   4. Los lentes deben ser amplios y ajustados al rostro para cumplir eficazmente con la protección
 
-#### **Gorra**
+**Gorra**
 
 Evita la contaminación de los cabellos por aerosoles o gotas de saliva y/o sangre generadas por el trabajo odontológico. En relación al uso del gorro debe considerarse:
 
@@ -236,7 +224,8 @@ Un gran porcentaje de los accidentes laborales se da por el mal manejo del mater
   6. No doblar las agujas, ni querer romperlas.
   7. Las jeringas y agujas usadas deben ser recolectados y eliminados en recipientes descartadores rígidos, resistentes a la punción.
 
-#### **avado de Manos:**
+
+```{Lavado de Manos}
 
 Es el método más eficiente para disminuir el traspaso de microorganismos de un individuo a otro y cuyo propósito es la reducción continua de la flora residente y desaparición de la flora transitoria de la piel y de las uñas. **En relación al lavado de manos debe considerarse:**
 
@@ -253,15 +242,16 @@ Es el método más eficiente para disminuir el traspaso de microorganismos de un
   11. Los dispensadores de toalla en lo posible deben ser cerrados para impedir la contaminación por exposición al ambiente o contacto con las manos y debe estar muy cercano al lavamanos a una altura que permita mantenerlo seco, libre de salpicaduras.
   12. No se recomienda el uso de secador de aire, por su lentitud y riesgo de recontaminación.
   13. Se debe procurar que las llaves de agua del lavatorio del consultorio sean de palanca, accionadas con el pie o fotosensibles.
+```
 
 #### **Desinfectantes Químicos**
 
-- **Glutarhaldeido al 2%** Para obtener 1 litro a una concentración de 1:16, existen 2 formas:
+**Glutarhaldeido al 2%** Para obtener 1 litro a una concentración de 1:16, existen 2 formas:
 
   1. Medir una parte de solución y agregar 15 partes de agua destilada.
   2. Medir 62.5cc de glutaraldehído y agregar 937.5cc de agua destilada.
 
-- **Precauciones**
+**Precauciones**
 
   1. Trabajar con ambiente bien ventilado con elementos de protección (anteojos de seguridad, guantes de látex, delantal de polietileno y barbijo).
   2. La solución de glutaraldehído al 2% activada utilizada para esterilizar o desinfectar debe descartarse a los 14 ó 28 días después de ser activado. Nunca superar ese tiempo establecido.
@@ -269,7 +259,7 @@ Es el método más eficiente para disminuir el traspaso de microorganismos de un
   4. Utilizar tiras de control de concentración de glutaraldehído con el fin de descartar aquellas soluciones cuya concentración haya disminuido por debajo del 1,5% (durante el periodo de uso de 14 ó 28 días desde la activación).
   5. Los elementos que se colocan en este producto deben estar siempre secos, a fin de evitar dilución del preparado.
 
-- **Hipoclorito de Sodio** Para obtener 1 litro a una concentración del 1% (1:5), existen 2 formas:
+**Hipoclorito de Sodio** Para obtener 1 litro a una concentración del 1% (1:5), existen 2 formas:
 
   1. Medir una parte de lejía doméstica y agregar cuatro partes de agua destilada.
   2. Medir 200cc de lejía doméstica y agregar 800cc de agua destilada para obtener un litro de hipoclorito al 1%.
@@ -279,7 +269,7 @@ Es el método más eficiente para disminuir el traspaso de microorganismos de un
   1. Medir una parte de lejía doméstica y agregar nueve partes de agua destilada.
   2. Medir 100cc de lejía doméstica y agregar 900cc de agua destilada.
 
-- **Precauciones:**
+**Precauciones:**
 
   1. La lejía concentrada deberá almacenarse a temperatura inferior a 25º, protegida de la luz en frascos plásticos opacos y bien tapados.
   2. Nunca utilizar lejía concentrada como desinfectante o descontaminante ya que es totalmente ineficaz.
@@ -288,15 +278,15 @@ Es el método más eficiente para disminuir el traspaso de microorganismos de un
   5. El agua utilizada para la dilución de la lejía concentrada será agua corriente (no destilada) y fría. Nunca utilizar agua caliente o tibia.
   6. No superar los tiempos de exposición establecidos ya que es inútil.
 
-- **Alcohol de 70° de Pureza** Para obtener 1 litro de alcohol de 70°:
+**Alcohol de 70° de Pureza** Para obtener 1 litro de alcohol de 70°:
 
   ner un litro de alcohol de 70º.
 
-- **Precauciones**
+**Precauciones**
 
   1. El alcohol de 95º, no tiene propiedades germicidas, por lo tanto nunca usar alcohol de 95º sin diluir. Necesita la presencia de agua para actuar como microbicida.
 
-**Referencias**
+##### **Referencias**
 
 1. Jaime Otero M. y Jaime Ignacio Otero. &quot;Manual de Bioseguridad en  dontología&quot;. Lima – Perú. 2002.
 
