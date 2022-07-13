@@ -5,6 +5,26 @@ in regular markdown files (`.md`), you'll write in the same flavor of markdown
 called **MyST Markdown**.
 This is a simple file to help you get started and show off some syntax.
 
+
+::::{grid} 1 2 3 4
+:outline:
+
+:::{grid-item}
+A
+:::
+:::{grid-item}
+B
+:::
+:::{grid-item}
+C
+:::
+:::{grid-item}
+D
+:::
+::::
+
+
+
 ## What is MyST?
 
 MyST stands for "Markedly Structured Text". It
