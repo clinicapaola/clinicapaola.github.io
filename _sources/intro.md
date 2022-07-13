@@ -10,7 +10,7 @@ una actualización sobre la historia clínica se debe solicitar un bac
 > Las observaciones de cada procedimiento junto con la firma del paciente se deben realizar cuidadosamente    
 de manera que se pueda identificar plenamente la confirmacióny situación del paciente para la fecha de ejecución del tratamient.   
 
-> ### **📨Solicitudes** [![Solicitudes](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbzZyVWsTy7RBIFU9kQzYuoiuDZr5q5A2x0ANrnYO5xu4n86SYHxahA-RuHgUZnOZhi5zA/exec)
+> ### **📨Solicitudes** [![Solicitudes](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbzFefPHliZ7HlTPJzRwsJWaDqIBwjn2n2U3aXO8De08cqbV75Cbkt9q0KvHrDWRlpGmZw/exec)
 > El uso de solicitudes facilita el acceso a documentos no solo para consulta,   
 sino también para impresión en casos particulares.     
 
