@@ -2,7 +2,7 @@
 _**By**: Dra. Paola Sosa Bernal_
 ### **Navigation Menu**
 
-> ### **👨‍👩‍👧‍👦Pacientes**  [![Pacientes](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbxgde8nnfE8hjmUOPhHX4R7HKkCLTNHjBwIUfO2w7YW2bDbxFBE2prJ2OW3IsZpGf9m2Q/exec)
+> ### **👨‍👩‍👧‍👦Pacientes**  [![Pacientes](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbwewNNTXCX7bjdVcjC9iGgxuer_iON9BGdlagVHs12s7kHkpx6lGJIbVTrlSklR88ZC3g/exec)
 > El registro de **pacientes** no es actualizable desde la plataformaen caso de necesitar   
 una actualización sobre la historia clínica se debe solicitar un backup de los datos del paciente para crear el registro nuevamente.   
 
@@ -10,7 +10,7 @@ una actualización sobre la historia clínica se debe solicitar un bac
 > Las observaciones de cada procedimiento junto con la firma del paciente se deben realizar cuidadosamente    
 de manera que se pueda identificar plenamente la confirmacióny situación del paciente para la fecha de ejecución del tratamient.   
 
-> ### **📨Solicitudes** [![Solicitudes](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbyDOT0NsZEiIGW0fNs4qLGfNb7gZB-XYKLjrAZXA9tL-doM8upjn5pmNRSrYfBJ5VarsQ/exec)
+> ### **📨Solicitudes** [![Solicitudes](https://script.google.com/macros/s/AKfycbzZyVWsTy7RBIFU9kQzYuoiuDZr5q5A2x0ANrnYO5xu4n86SYHxahA-RuHgUZnOZhi5zA/exec)
 > El uso de solicitudes facilita el acceso a documentos no solo para consulta,   
 sino también para impresión en casos particulares.     
 
@@ -24,7 +24,7 @@ primera mano la salud oral de los pacientes. 
 > El seguimiento y la gestion de odontologia especializada es importante por tal razon cualquier    
 anotacion o descripcion debe ser objetiva y lo suficientemente clara.
 
-> ### **💻Facturación** [![facturas](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbyFD16dv4mp2KZ_4lGDPIF4OHfAmq-XGMwMI_pEQkTTqLZiSWE8os1FNFC9VRCVT_m8/exec)
+> ### **💻Facturación** [![facturas](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbwOjdSrS2guEHDeN9aat2_0nIODkyNcf9w5YbQuSGWD8j_X97RBxMRIv8vBWd-hm_pC/exec)
 > La gestion de cuentas y registro apropiado de egresos es fundamental para conocer el     
 compartamiento en cuanto a resultados finacieros.
 
