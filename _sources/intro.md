@@ -27,7 +27,3 @@ anotacion o descripcion debe ser objetiva y lo suficientemente clara.
 > ### **💻Facturación** [![facturas](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbwOjdSrS2guEHDeN9aat2_0nIODkyNcf9w5YbQuSGWD8j_X97RBxMRIv8vBWd-hm_pC/exec)
 > La gestion de cuentas y registro apropiado de egresos es fundamental para conocer el     
 compartamiento en cuanto a resultados finacieros.
-
-
-```{tableofcontents}
-```

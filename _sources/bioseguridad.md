@@ -1,29 +1,27 @@
 ## **Manual de bioseguridad**
 **Dra. Paola Sosa**
 
-### **Introducción**
+#### **Introducción**
 
->El manual de bioseguridad del servicio de salud de _Odontología Personalizada_, es el documento dónde se encuentran escritas las políticas que la institución ha diseñado para realizar el control de los riesgos, especialmente biológicos, presentes en la prestación de los servicios de salud. Este manual contiene una recopilación ordenada y práctica de las normas y procedimientos que tienen por objeto, disminuir, minimizar o eliminar los factores de riesgo biológico que puedan llegar a afectar la salud, la vida de las personas o afectar el medio o ambiente.
+El manual de bioseguridad del servicio de salud de _Odontología Personalizada_, es el documento dónde se encuentran escritas las políticas que la institución ha diseñado para realizar el control de los riesgos, especialmente biológicos, presentes en la prestación de los servicios de salud. Este manual contiene una recopilación ordenada y práctica de las normas y procedimientos que tienen por objeto, disminuir, minimizar o eliminar los factores de riesgo biológico que puedan llegar a afectar la salud, la vida de las personas o afectar el medio o ambiente.
 
-### **Objetivo General**
+**Objetivo General**
 
-> Este manual establece los criterios de **Bioseguridad** que se aplican en el servicio de _Odontología Personalizada_, para la promoción de la salud y la protección de los profesionales de la salud, y de los pacientes frente al riesgo de adquirir enfermedades o de sufrir accidentes con ocasión de la prestación de servicios de salud en el ámbito del servicio de Odontología, ajustados a la normatividad vigente.
+> Este manual establece los criterios de **Bioseguridad** que se aplican en el servicio de _Odontología Personalizada_, para la promoción de la salud y la protección de los profesionales de la salud, y de los pacientes frente al riesgo de adquirir enfermedades o de sufrir accidentes con ocasión de la prestación de servicios de salud en el ámbito del servicio de Odontología, ajustados a la normatividad vigente. El manual también establece los conceptos generales y los protocolos de limpieza y deinfección de áreas, equipos y dispositivos médicos empleados en el servicio de Odontología que permita prestar servicios con seguridad y contribuyan a prevenir las infecciones potencialmente derivadas de la atención en salud.
 
-El manual también establece los conceptos generales y los protocolos de limpieza y deinfección de áreas, equipos y dispositivos médicos empleados en el servicio de Odontología que permita prestar servicios con seguridad y contribuyan a prevenir las infecciones potencialmente derivadas de la atención en salud.
+**Objetivos Especificos**
 
-### **Objetivos Especificos**
+1. Establecer las medidas de **prevención de accidentes** en el personal de la salud que está expuesto a **riesgo biológico,** en el contacto con sangre u otros tipos de fluidos corporales y a todos los microorganismos que pueden causar algún tipo de patología en el servicio de Odontología.
 
-> Establecer las medidas de **prevención de accidentes** en el personal de la salud que está expuesto a **riesgo biológico,** en el contacto con sangre u otros tipos de fluidos corporales y a todos los microorganismos que pueden causar algún tipo de patología en el servicio de Odontología.
+2. Evaluar los procesos y procedimientos en Bioseguridad consignados en este manual, con el fin de que se conozca, se aplique y se constituya una práctica permanente y en una herramienta de prevención.
 
-> Evaluar los procesos y procedimientos en Bioseguridad consignados en este manual, con el fin de que se conozca, se aplique y se constituya una práctica permanente y en una herramienta de prevención.
+3. Crear el habito de seguridad, responsabilidad, conocimientos y conciencia a través de la prevención, el autocuidado y la autogestión de sus procesos, lo que conlleva a un cambio gradual en actitudes, comportamientos y prácticas en Bioseguridad, garantizando la integridad física, mental, psicosocial de usuarios del servicio de Odontología General.
 
->Crear el habito de seguridad, responsabilidad, conocimientos y conciencia a través de la prevención, el autocuidado y la autogestión de sus procesos, lo que conlleva a un cambio gradual en actitudes, comportamientos y prácticas en Bioseguridad, garantizando la integridad física, mental, psicosocial de usuarios del servicio de Odontología General.
-
-### **Normas Universales de Bioseguridad**
+#### **Normas Universales de Bioseguridad**
 
 Las normas universales buscan **complemetar** las recomendaciones de rutina para el control de infecciones, como el lavado de manos y el uso de guantes para evitar la contaminación de las manos por microbios. La implementación de normas universales **no** elimina la necesidad de tomar las medidas de precaución específicas para algunas enfermedades.
 
-#### **Normas Universales**
+**Normas Universales**
 
 - Mantenga el lugar de trabajo en óptimas condiciones.
 - Evite fumar, beber y comer cualquier alimento en el sitio de trabajo.
@@ -225,7 +223,8 @@ Un gran porcentaje de los accidentes laborales se da por el mal manejo del mater
   7. Las jeringas y agujas usadas deben ser recolectados y eliminados en recipientes descartadores rígidos, resistentes a la punción.
 
 
-```{Lavado de Manos}
+```{note}
+**Lavado de Manos**   
 
 Es el método más eficiente para disminuir el traspaso de microorganismos de un individuo a otro y cuyo propósito es la reducción continua de la flora residente y desaparición de la flora transitoria de la piel y de las uñas. **En relación al lavado de manos debe considerarse:**
 
