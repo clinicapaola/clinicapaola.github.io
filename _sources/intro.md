@@ -14,7 +14,7 @@ de manera que se pueda identificar plenamente la confirmacióny situaci
 > El uso de solicitudes facilita el acceso a documentos no solo para consulta,   
 sino también para impresión en casos particulares.     
 
-> ### **📄Cotización** [![Cotizaciones](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbwD55DA3PwyMoG4vEJWwmF4ooSdKabl7WkAKLcSy-h2vfUpGL-g8pjE4xzu6MFIVjTD4A/exec)
+> ### **📄Cotización** [![Cotizaciones](https://script.google.com/macros/s/AKfycbzGFV-Lm2j54agbu5ny2Q3YYAw09hTzNczcgv5-wGUmi3hIz_Vx2GqoaejRMlkxEv3k_w/exec)
 > La digitalización de la cotización facilita su consulta y seguimiento en el futuro,        
 además hace parte de los registros obligatorios que facilitaran el acceso a conocer de    
 primera mano la salud oral de los pacientes.    
