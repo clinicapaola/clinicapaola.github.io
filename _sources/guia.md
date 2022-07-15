@@ -1,4 +1,4 @@
-# **Manual de Adopción de 
+# **Manual de Adopción de Guías**
 _Dra. Paola Sosa_
 
 ## **Definiciones**
