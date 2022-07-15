@@ -1,7 +1,7 @@
-## **Manual de Adopción de 
+# **Manual de Adopción de 
 _Dra. Paola Sosa_
 
-### **Definiciones**
+## **Definiciones**
 
 **Guía Práctica Clínica** **GPC** son recomendaciones desarrolladas de forma sistemática para ayudar tanto al profesional como al paciente a tomar la decisiones adecuadas cuando el paciente tiene una enfermedad o condición de salud determinada. La ventaja de estas guías para el medico u odontólogo se basa en que las recomendaciones que ofrece provienen de la mejor evidencia científica existente y para el paciente en la ganancia de la confianza que lo que le indica su médico u odontólogo proviene de estudios científicos evaluados y resumidos en forma de guía.
     
