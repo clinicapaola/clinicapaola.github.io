@@ -4,7 +4,7 @@ _**By**: Dra. Paola Sosa Bernal_
 
 > ### **👨‍👩‍👧‍👦Pacientes Desktop**  [![Pacientes](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbwewNNTXCX7bjdVcjC9iGgxuer_iON9BGdlagVHs12s7kHkpx6lGJIbVTrlSklR88ZC3g/exec)
 
-> ### **👨‍👩‍👧‍👦🤳Pacientes Mobile📱**  [![Pacientes](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbxdqmt8TscQF0xyU97qmEWL9pjzR3XyKs4IxFyAsUO6zvI8m7mPlFAMdM7zlgQZCSNg/exec)
+> ### **👨‍👩‍👧‍👦🤳Pacientes Mobile📱**  [![Pacientes](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbyeESwYm5bXqEO-d5Wh4TLsBn4FEoWagd-wmoYrGxquelRqIPvAHhmHd0nVuekGCONJ/exec)
 
 > El registro de **pacientes** no es actualizable desde la plataformaen caso de necesitar   
 una actualización sobre la historia clínica se debe solicitar un backup de los datos del paciente para crear el registro nuevamente.   
@@ -12,7 +12,7 @@ una actualización sobre la historia clínica se debe solicitar un bac
 
 > ### **💻Tratamientos Desktop** [![Tratamientos](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbwst1u4GWwlWsSBHrMUN-HvZOuPgY_GlXHY2CNAun1DJYQ4bK64T_P8BPVL_l6869Zxcw/exec)
 
-> ### **💻🤳Tratamientos Mobile📱** [![Tratamientos](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbyb_t5mOlX-HOGbszap0QS7t8B4Q5bBjJu7_eqR1Eq2lwxZVR-gaddlXGsd05csPhr5xw/exec)
+> ### **💻🤳Tratamientos Mobile📱** [![Tratamientos](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbyTa-fzUk5P4ugvvBbXRq7SwAyqRPQsHXod8XpZj-dgM9wItg9GSj2GNA9j85zRTZowHw/exec)
 
 
 > Las observaciones de cada procedimiento junto con la firma del paciente se deben realizar cuidadosamente    
