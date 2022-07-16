@@ -1,6 +1,6 @@
-## **Dental office 🥼🦷, Odontologia Personalizada**
+# **Dental office 🥼🦷, Odontologia Personalizada**
 _**By**: Dra. Paola Sosa Bernal_
-### **Navigation Menu**
+## **Navigation Menu**
 
 > ### **👨‍👩‍👧‍👦Pacientes Desktop**  [![Pacientes](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbwewNNTXCX7bjdVcjC9iGgxuer_iON9BGdlagVHs12s7kHkpx6lGJIbVTrlSklR88ZC3g/exec)
 
