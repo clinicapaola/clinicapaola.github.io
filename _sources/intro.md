@@ -4,13 +4,17 @@ _**By**: Dra. Paola Sosa Bernal_
 
 > ### **👨‍👩‍👧‍👦Pacientes Desktop**  [![Pacientes](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbwewNNTXCX7bjdVcjC9iGgxuer_iON9BGdlagVHs12s7kHkpx6lGJIbVTrlSklR88ZC3g/exec)
 
-> ### **👨‍👩‍👧‍👦🤳Pacientes Mobile📱**  [![Pacientes](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbwGwdJri-NFUx2KCaVo3F6LKah39wHAp6_awvb7X6QiqFdZ98FYPow91_rSTBFesIQQ/exec)
+> ### **👨‍👩‍👧‍👦🤳Pacientes Mobile📱**  [![Pacientes](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbwt2TstMXeQUKWSc-yzgPxT9y6NtrtdXPIec5q-CS9GSQY9o7j5zzpwMVXOrauTenIi/exec)
 
 > El registro de **pacientes** no es actualizable desde la plataformaen caso de necesitar   
 una actualización sobre la historia clínica se debe solicitar un backup de los datos del paciente para crear el registro nuevamente.   
 
 
-> ### **💻Tratamientos** [![Pacientes](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbwst1u4GWwlWsSBHrMUN-HvZOuPgY_GlXHY2CNAun1DJYQ4bK64T_P8BPVL_l6869Zxcw/exec)
+> ### **💻Tratamientos Desktop** [![Tratamientos](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbwst1u4GWwlWsSBHrMUN-HvZOuPgY_GlXHY2CNAun1DJYQ4bK64T_P8BPVL_l6869Zxcw/exec)
+
+> ### **💻🤳Tratamientos📱** [![Tratamientos](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbwaDjBV_uTZmhXWKT37FALfXXM15sgWXqX60DPrtSvbJ6DqhK604rboTnxaSKN2l3XPhg/exec)
+
+
 > Las observaciones de cada procedimiento junto con la firma del paciente se deben realizar cuidadosamente    
 de manera que se pueda identificar plenamente la confirmacióny situación del paciente para la fecha de ejecución del tratamient.   
 
