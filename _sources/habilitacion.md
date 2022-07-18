@@ -1,4 +1,1 @@
 ## Habilitación
-
-- file: residuos
-
