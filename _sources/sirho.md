@@ -1,4 +1,6 @@
-# **SIRHO**
+# SIRHO
+
+**Sistema de información de residuos hospitalarios**
 
 El Sistema de información de residuos hospitalarios - **SIRHO** es un aplicativo fácil y rápido para realizar el reporte de los Indicadores de Gestión Integral de Residuos Hospitalarios y Similares a la Secretaría Distrital de Salud, dando cumplimento a las Obligaciones de los Generadores, establecidas en la Resolución 1164 2002 - Manual Residuos Hospitalarios.   
    

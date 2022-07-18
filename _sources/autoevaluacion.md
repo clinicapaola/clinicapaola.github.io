@@ -1,4 +1,4 @@
-# **Autoevaluación Prestadores de Servicios de Salud**
+# Autoevaluación Prestadores de Servicios de Salud
 
 Entiéndase por Autoevaluación para el Proceso de Habilitación el ejercicio que usted realizará revisando las características de cada uno de los servicios que va a inscribir y habilitar. 
 

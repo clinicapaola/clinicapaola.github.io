@@ -1,4 +1,4 @@
-## **Manual de bioseguridad**
+## Manual de bioseguridad
 **Dra. Paola Sosa**
 
 #### **Introducción**

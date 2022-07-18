@@ -1,3 +1,5 @@
+# PGIRH
+
 ## **Plan de Gestión Integral de Residuos Hospitalarios y Similares (PGIRH)** 
 
 Dra. Paola Sosa

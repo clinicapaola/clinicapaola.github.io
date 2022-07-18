@@ -1,4 +1,4 @@
-# **Reporte RIPS**
+# Reporte RIPS
 
 El Sistema de Información de Prestaciones de Salud, es "el conjunto de datos mínimos y básicos que el Sistema General de Seguridad Social en Salud requiere para los procesos de dirección, regulación y control, y como soporte de la venta de servicio, cuya denominación, estructura y características se ha unificado y estandarizado para todas las entidades a que hace referencia el artículo segundo de la Resolución en mención.
 
