@@ -1,5 +1,4 @@
-
-#EcoResiduos Nacionales
+# EcoResiduos Nacionales
 
 ## Residuos Infecciosos o de Riesgo Biológico
 
