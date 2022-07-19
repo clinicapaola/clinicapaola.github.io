@@ -3,9 +3,9 @@
 _**By**: Dra. Paola Sosa Bernal_
 ## **Navigation Menu**
 
-> ### **👨‍👩‍👧‍👦Pacientes Desktop**  [![Pacientes](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbwewNNTXCX7bjdVcjC9iGgxuer_iON9BGdlagVHs12s7kHkpx6lGJIbVTrlSklR88ZC3g/exec)
+> ### **👨‍👩‍👧‍👦Pacientes Desktop**  [![Pacientes](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbz5R2rNUjlExlPPoHqJxePHOY1eQ2ga2ZePuuOvTIz1OqCi3BBhVL8ueiyGjFjtNT47Nw/exec)
 
-> ### **👨‍👩‍👧‍👦🤳Pacientes Mobile📱**  [![Pacientes](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbyeESwYm5bXqEO-d5Wh4TLsBn4FEoWagd-wmoYrGxquelRqIPvAHhmHd0nVuekGCONJ/exec)
+> ### **👨‍👩‍👧‍👦🤳Pacientes Mobile📱**  [![Pacientes](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbxgnjcDwwArSyiPohEeatgbHZQtxkFy-jvaunbY2R4Pg02i3tFH3N-sNmko1-FfOnCE/exec)
 
 > El registro de **pacientes** no es actualizable desde la plataformaen caso de necesitar   
 una actualización sobre la historia clínica se debe solicitar un backup de los datos del paciente para crear el registro nuevamente.   
