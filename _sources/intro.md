@@ -5,7 +5,7 @@ _**By**: Dra. Paola Sosa Bernal_
 
 > ### **👨‍👩‍👧‍👦Pacientes Desktop**  [![Pacientes](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbz5R2rNUjlExlPPoHqJxePHOY1eQ2ga2ZePuuOvTIz1OqCi3BBhVL8ueiyGjFjtNT47Nw/exec)
 
-> ### **👨‍👩‍👧‍👦🤳Pacientes Mobile📱**  [![Pacientes](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbxgnjcDwwArSyiPohEeatgbHZQtxkFy-jvaunbY2R4Pg02i3tFH3N-sNmko1-FfOnCE/exec)
+> ### **👨‍👩‍👧‍👦🤳Pacientes Mobile📱**  [![Pacientes](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbwOLB07Kdz37_gTm2oNOrrvLVhdsKpuaQJ0-aAjpxs0atOKIsp8l_ktEKFmpT4-cu1v/exec)
 
 > El registro de **pacientes** no es actualizable desde la plataformaen caso de necesitar   
 una actualización sobre la historia clínica se debe solicitar un backup de los datos del paciente para crear el registro nuevamente.   
