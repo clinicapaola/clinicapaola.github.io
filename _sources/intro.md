@@ -3,9 +3,9 @@
 _**By**: Dra. Paola Sosa Bernal_
 ## **Navigation Menu**
 
-> ### **👨‍👩‍👧‍👦Pacientes Desktop**  [![Pacientes](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbz5R2rNUjlExlPPoHqJxePHOY1eQ2ga2ZePuuOvTIz1OqCi3BBhVL8ueiyGjFjtNT47Nw/exec)
+> ### **👨‍👩‍👧‍👦Pacientes Desktop**  [![Pacientes](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbxk0pb0Yik5MXPxFnt0n1wd6BlxEmYdgloFRQMfXwLYU2UZuT15DyoLnK1XD1TDb5QiZg/exec)
 
-> ### **👨‍👩‍👧‍👦🤳Pacientes Mobile📱**  [![Pacientes](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbwOLB07Kdz37_gTm2oNOrrvLVhdsKpuaQJ0-aAjpxs0atOKIsp8l_ktEKFmpT4-cu1v/exec)
+> ### **👨‍👩‍👧‍👦🤳Pacientes Mobile📱**  [![Pacientes](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbxTc_7-bMoQ9MZHdn3rbHfXrUQJXf-HMDybyCgDv7t9PZFSZ7fYGiUkQ3IxmK62SJQL/exec)
 
 > El registro de **pacientes** no es actualizable desde la plataformaen caso de necesitar   
 una actualización sobre la historia clínica se debe solicitar un backup de los datos del paciente para crear el registro nuevamente.   
@@ -19,7 +19,7 @@ una actualización sobre la historia clínica se debe solicitar un bac
 > Las observaciones de cada procedimiento junto con la firma del paciente se deben realizar cuidadosamente    
 de manera que se pueda identificar plenamente la confirmacióny situación del paciente para la fecha de ejecución del tratamient.   
 
-> ### **📨Solicitudes** [![Solicitudes](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbzSA94MYni91TMEmUcs_IxNLnNfiNkj-X0Fpfp3NPSPdZMPhAwg_MI6WoeJIT5WLAsfPw/exec)
+> ### **📨Solicitudes** [![Solicitudes](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbygPQcvYxFxldWameWWTXMxr3Qpv5NYmBavuSH-Mz9U3zP1NscJfl60Zr0vLgcJfGHG-g/exec)
 > El uso de solicitudes facilita el acceso a documentos no solo para consulta,   
 sino también para impresión en casos particulares.     
 
