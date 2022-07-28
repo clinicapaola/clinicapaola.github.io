@@ -28,10 +28,10 @@ sino también para impresión en casos particulares.
 además hace parte de los registros obligatorios que facilitaran el acceso a conocer de    
 primera mano la salud oral de los pacientes.    
 
-> ### **🥼Especialistas** [![especialistas](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbwc10Ijs6osETA7waXOsiBGGPx66gRumYYnySazTddFKh8OxdaMlRFwg4xf7ZQgcyYi/exec)
+> ### **🥼Especialistas** [![especialistas](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbwURoCPunBvTQpoEdUKKJwxRDwQkVqs_2be7a9Z0Bg8HGSd3BIwHlQwWq-wAIG3pj4/exec)
 > El seguimiento y la gestion de odontologia especializada es importante por tal razon cualquier    
 anotacion o descripcion debe ser objetiva y lo suficientemente clara.
 
-> ### **🏧Facturación** [![facturas](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbwOjdSrS2guEHDeN9aat2_0nIODkyNcf9w5YbQuSGWD8j_X97RBxMRIv8vBWd-hm_pC/exec)
+> ### **🏧Facturación** [![facturas](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbzGldkejWbv4wWFYW-l4DFKsmn-OVgiLjt19V3ZGZij-jSh1AiS-8jnAECX_wbH5e9S/exec)
 > La gestion de cuentas y registro apropiado de egresos es fundamental para conocer el     
 compartamiento en cuanto a resultados finacieros.
