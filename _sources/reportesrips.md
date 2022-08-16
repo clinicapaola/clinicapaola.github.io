@@ -54,7 +54,7 @@ Por la cual se reglamenta el Registro Individual de Prestación de Servicios de 
 | [Abril](https://drive.google.com/file/d/1JsP6wAGpQotJneHul_ZfihTPxSdIshtE/view?usp=sharing)   | Aprobado  |
 | [Mayo](https://drive.google.com/file/d/1JsP6wAGpQotJneHul_ZfihTPxSdIshtE/view?usp=sharing)    | Aprobado  |
 | [Junio](https://drive.google.com/file/d/1--DHg-7S6BcK__v-Gb8T3LXuwlbXus8G/view?usp=sharing)  | Aprobado  |
-| [Julio]()                                                                                      | Pendiente |
+| [Julio](https://drive.google.com/file/d/1R72fVMYWpecbJZi0MPE5BG1T1HaCtKGJ/view?usp=sharing)                                                                                      | Aprobado |
 | [Agosto]()                                                                                     | Pendiente |
 | [Septiembre]()                                                                                 | Pendiente |
 | [Octubre]()                                                                                    | Pendiente |
