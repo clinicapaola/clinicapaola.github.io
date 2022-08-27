@@ -11,15 +11,15 @@ _**By**: Dra. Paola Sosa Bernal_
 una actualización sobre la historia clínica se debe solicitar un backup de los datos del paciente para crear el registro nuevamente.   
 
 
-> ### **💻Tratamientos Desktop** [![Tratamientos](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbwst1u4GWwlWsSBHrMUN-HvZOuPgY_GlXHY2CNAun1DJYQ4bK64T_P8BPVL_l6869Zxcw/exec)
+> ### **💻Tratamientos Desktop** [![Tratamientos](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbw7vQbeOonm9krB-2jr-atlKhfJt6NZi0nx4hvb3ADRptfCpCh85Cn55EQnayggfvTHuw/exec)
 
-> ### **💻🤳Tratamientos Mobile📱** [![Tratamientos](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbyTa-fzUk5P4ugvvBbXRq7SwAyqRPQsHXod8XpZj-dgM9wItg9GSj2GNA9j85zRTZowHw/exec)
+> ### **💻🤳Tratamientos Mobile📱** [![Tratamientos](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbz9uY3A00KuG3J5XA__BNanX83ID07MjGuAT_RGY7CDgnS9jEce05walWoVwFNtTZ9syQ/exec)
 
 
 > Las observaciones de cada procedimiento junto con la firma del paciente se deben realizar cuidadosamente    
 de manera que se pueda identificar plenamente la confirmacióny situación del paciente para la fecha de ejecución del tratamient.   
 
-> ### **📨Solicitudes** [![Solicitudes](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbygPQcvYxFxldWameWWTXMxr3Qpv5NYmBavuSH-Mz9U3zP1NscJfl60Zr0vLgcJfGHG-g/exec)
+> ### **📨Solicitudes** [![Solicitudes](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbyvhusf8FuO9uN8-o1E3kmp9Iov4B9I1gWaXXxLxO3QU8y3qLQ0CI_adykzZNsEWQQuuQ/exec)
 > El uso de solicitudes facilita el acceso a documentos no solo para consulta,   
 sino también para impresión en casos particulares.     
 
