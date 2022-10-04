@@ -35,3 +35,7 @@ anotacion o descripcion debe ser objetiva y lo suficientemente clara.
 > ### **🏧Facturación** [![facturas](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbzGldkejWbv4wWFYW-l4DFKsmn-OVgiLjt19V3ZGZij-jSh1AiS-8jnAECX_wbH5e9S/exec)
 > La gestion de cuentas y registro apropiado de egresos es fundamental para conocer el     
 compartamiento en cuanto a resultados finacieros.
+
+> ### **🦷Facturación** [![facturas](https://i.ibb.co/NyjZFzz/LNegro4x.png)](https://script.google.com/macros/s/AKfycbzKm64jAXGbLiG8fNwL2svpd21flONnjAHlow7LOe8ftvXPXvTEdroEevdyyKehCmxF/exec)
+> Gestion Pacientes de Ortodoncia  
+Gestion Pacientes de Ortodoncia
