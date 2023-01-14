@@ -1,6 +1,9 @@
-# Dental office
-🥼🦷 **Odontologia Personalizada**
-_**By**: Dra. Paola Sosa Bernal_
+# **Dental** **office**
+
+## **Odontologia Personalizada**  
+
+## **By**: _Dra. Paola Sosa Bernal_  
+
 ## **Navigation Menu**
 
 | **Enlace**                                                                                                                                                                                                | **Descripcion**                                                                                                                                                 |
