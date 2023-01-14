@@ -1,11 +1,11 @@
-# **Dental** **office**
+# **System Manager V2.0**  
 
-## **Odontologia Personalizada**  
+**_[Source of Data](https://datastudio.google.com/s/kDOmRQzsBdc)_**
+_I think it is possible for ordinary people to choose to be extraordinary_
 
-## **By**: _Dra. Paola Sosa Bernal_  
+### **By**: _Dra. Paola Sosa Bernal_   
 
-## **Navigation Menu**
-
+---
 | **Enlace**                                                                                                                                                                                                | **Descripcion**                                                                                                                                                 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**Registro de Pacientes**](https://script.google.com/macros/s/AKfycbxk0pb0Yik5MXPxFnt0n1wd6BlxEmYdgloFRQMfXwLYU2UZuT15DyoLnK1XD1TDb5QiZg/exec)      | Registrar Pacientes.                                                                                                                                             |
